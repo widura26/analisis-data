@@ -1,0 +1,12 @@
+name,quantity,region,service_id,sku,"total_price, USD",notes
+E2 Instance Core running in Jakarta,1458.0,asia-southeast2,6F81-5844-456A,621C-41D1-4D05,42.76481,
+E2 Instance Ram running in Jakarta,1458.0,asia-southeast2,6F81-5844-456A,2526-CC04-D642,5.73063,
+Balanced PD Capacity in Jakarta,10.0,asia-southeast2,6F81-5844-456A,7CD6-D519-82F7,1.3,
+Cloud SQL for MySQL: Zonal - vCPU in Americas,730.0,us-central1,9662-B51E-5089,741F-D668-2417,30.149,
+Cloud SQL for MySQL: Zonal - RAM in Americas,2737.5,us-central1,9662-B51E-5089,49E9-5D00-B807,19.1625,
+Cloud SQL for MySQL: Zonal - Standard storage in Americas,7300.0,us-central1,9662-B51E-5089,F0A1-2B08-FA36,1.58325,
+Cloud SQL: Backups in Americas,73000.0,us-central1,9662-B51E-5089,46C8-DA82-DF18,7.45058,
+Regional Standard Class A Operations,1000000.0,global,95FF-2EF5-5EA1,4DBF-185F-A415,4.975,
+Standard Storage Jakarta,10.0,asia-southeast2,95FF-2EF5-5EA1,DB0A-37C5-4E19,0.2142,
+,,,,,,
+,,,,Total Price:,113.32998,
